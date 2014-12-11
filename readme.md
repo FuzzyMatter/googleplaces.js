@@ -59,6 +59,7 @@ Yes, fork, hack and send me a PR
      */
     parameters = {
       location:[-33.8670522, 151.1957362],
+      radius: 500,
       types:"doctor"
     };
     googlePlaces.placeSearch(parameters, function (error, response) {

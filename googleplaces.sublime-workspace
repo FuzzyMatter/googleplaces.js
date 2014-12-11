@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"response"
+			],
+			[
+				"APN",
+				"APN_API_KEY"
+			],
+			[
+				"erro",
+				"errCode"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"COMP",
+				"companys"
+			],
+			[
+				"compa",
+				"companyIds"
+			],
+			[
+				"com",
+				"companyIds"
+			],
+			[
+				"comp",
+				"companyIds"
+			],
+			[
+				"company",
+				"companyIds"
+			],
+			[
+				"prot",
+				"proto	Prototype"
+			],
+			[
+				"userid",
+				"userIds"
+			],
+			[
+				"useri",
+				"userId"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"prop",
+				"propertyId"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"proper",
+				"propertyId"
+			],
+			[
+				"App",
+				"ApplicationError"
+			],
+			[
+				"Ap",
+				"ApplicationError"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"Mo",
+				"MONGOOSE_ERROR"
+			],
+			[
+				"popul",
+				"populateError"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"Role",
+				"RoleModel"
+			],
+			[
+				"Rol",
+				"RoleModel"
+			],
+			[
+				"is",
+				"isResidentRole"
+			],
+			[
+				"Mana",
+				"MANAGER"
+			],
+			[
+				"perm",
+				"permission"
+			],
+			[
+				"p",
+				"property"
+			],
+			[
+				"Threa",
+				"ThreadModel"
+			],
+			[
+				"upd",
+				"updatedPost"
+			],
+			[
+				"threa",
+				"thread_"
+			],
+			[
+				"post",
+				"post_"
+			],
+			[
+				"thre",
+				"thread_"
+			],
+			[
+				"Thre",
+				"ThreadModel"
+			],
+			[
+				"update",
+				"updatedThread"
+			],
+			[
+				"Thread",
+				"ThreadModel"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"fu",
+				"fun	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 85.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fuzzymatter/Documents/libs/googleplaces.js"
+	],
+	"file_history":
+	[
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/node_modules/googleplaces/lib/PlaceSearch.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/package.json",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/api/v1/routes/oauth/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/lib/places.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/api/v1/routes/places/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/models/post.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/lib/places.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/models/role.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/lib/push/apn.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/middleware/authorize.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/index.jade",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/lib/push/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/lib/push/gcm.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/api/v1/routes/property/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/api/v1/routes/account/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/config/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/views/v1/partials/company.jade",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/api/v1/routes/user/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/api/v1/routes/thread.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/views/v1/partials/sidebar.jade",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/css/style.css",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/views/v1/index.jade",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/api/v1/routes/company/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/views/v1/partials/property.jade",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/api/v1/routes/property.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/factories/property.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/models/property.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/views/v1/partials/companies.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/api/v1/routes/company.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/middleware/authenticate.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/api/v1/routes/user.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/views/v1/partials/thread.jade",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/collections/roles.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/models/user.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/middleware/params.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/api/v1/routes/post/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/api/v1/routes/post.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/views/v1/partials/user.jade",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/views/v1/partials/post.jade",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/api/v1/routes/thread/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/models/role.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/lib/auth.js",
+		"/Users/fuzzymatter/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/fuzzymatter/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/factories/role.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/factories/user.js",
+		"/Users/fuzzymatter/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/error.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/api/v1/routes/error/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/views/v1/partials/oauth.jade",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/api/v1/routes/client/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/models/roles.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/api/v1/routes/client.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/models/accessToken.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/models/roles.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/factories/roles.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/api/v1/routes/chat.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/api/v1/routes/chat/index.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/models/chat.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/.gitignore",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/models/user.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/views/index.jade",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/factories/thread.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/docs/versions/v1.html",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/factories/post.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/api/v1/routes/oauth.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/specs/common.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/models/thread.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/sandbox/threadPUT.json",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/sandbox/thread.json",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/factories/accessToken.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/factories/refreshToken.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/lib/oauth2.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/scripts/fuzzyMatterSeed.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/factorySetup.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/api/v1/routes/threadSpec.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/factories/threadFactory.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/scripts/seeder.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/test/api/v1/routes/oauthSpec.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/scripts/scripts.sh",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/scripts/seed.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/scripts/database_seeds/user.json",
+		"/Users/fuzzymatter/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/fuzzymatter/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/app/models/client.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/scripts/database_seeds/company.json",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/scripts/database_seeds/property.json",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/scripts/database_seeds/roles.json",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/lib/fakeDb/seed.js",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/scripts/database_seeds/users.json",
+		"/Users/fuzzymatter/Documents/urban-arabia-backend/scripts/database_seeds/units.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+			"/Users/fuzzymatter/Documents/urban-arabia-backend"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"database",
+			"chalk",
+			"UA_GCM_API_KEY",
+			"process.env.UA_GCM_API_KEY",
+			"white",
+			"whitespace",
+			"noDocumentError",
+			"tokens",
+			"findHighestRolesForUser",
+			"user_",
+			"this",
+			"findResidentRoleOrHigher",
+			"console",
+			"I can get past verfication'",
+			"consle",
+			"  ",
+			"\"control+shi",
+			"\"shift+control",
+			"line",
+			"add",
+			"add "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"user1_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "googleplaces.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
